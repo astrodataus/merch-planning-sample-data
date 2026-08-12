@@ -14,12 +14,12 @@ still needs to be bought to support the rest of the year.
 |---|---|---|
 | `dim_calendar` | fiscal month | 36 |
 | `dim_channel` | channel | 3 |
-| `dim_product` | style | 112 |
+| `dim_product` | style | 101 |
 | `dim_vendor` | vendor | 5 |
 | `fact_merch_plan` | month x channel x department x plan version | 4,320 |
 | `fact_actuals` | month x channel x department, closed months only | 1,800 |
 | `fact_open_to_buy` | month x channel x department, forward months | 360 |
-| `fact_style_month` | style x month x channel | 1,957 |
+| `fact_style_month` | style x month x channel | 1,763 |
 
 Fiscal calendar is NRF 4-5-4 with a February start. FY2026 runs 1 Feb 2026 to
 30 Jan 2027 and is set mid-year: February through July are actuals, August
