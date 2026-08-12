@@ -1,0 +1,4 @@
+channel_key,channel,channel_group,markdown_rate,shrink_rate,imu
+ECOM,Ecommerce,DTC,0.135,0.004,0.64
+STORE,Retail Stores,DTC,0.105,0.009,0.64
+WHSL,Wholesale,Wholesale,0.02,0.001,0.48
