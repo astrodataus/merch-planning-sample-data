@@ -1,6 +1,6 @@
 style_key,style_name,print_name,division,department,class_name,season,lifecycle,retail_price,unit_cost,vendor_key,vendor,country_of_origin,lead_time_weeks
 ST-0001,Snowdrop Party Dress,Snowdrop,Girls,Dresses,Party Dress,Holiday,New,95.99,30.88,V-PER-01,Lima Pima Cotton,Peru,12
-ST-0002,Tulip Garden Day Dress,Block Print Floral,Girls,Dresses,Day Dress,Spring,New,93.99,34.15,V-IND-02,Sanganer Textiles,India,16
+ST-0002,Tulip Garden Day Dress,Garden Trellis,Girls,Dresses,Day Dress,Spring,New,93.99,34.15,V-IND-02,Sanganer Textiles,India,16
 ST-0003,Nantucket Stripe Day Dress,Nantucket Stripe,Girls,Dresses,Day Dress,Summer,New,91.99,33.06,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0004,Autumn Gingham Day Dress,Wildflower,Girls,Dresses,Day Dress,Fall,New,105.99,33.07,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0005,Winter Fair Isle Day Dress,Candy Cane Stripe,Girls,Dresses,Day Dress,Holiday,New,91.99,29.76,V-PER-01,Lima Pima Cotton,Peru,12
@@ -11,17 +11,17 @@ ST-0009,Snowdrop Maxi Dress,Holiday Holly,Girls,Dresses,Maxi Dress,Holiday,New,1
 ST-0010,Palm Frond Blouse,Strawberry Fields,Girls,Tops,Blouse,Summer,New,61.99,20.32,V-IND-01,Jaipur Block Works,India,18
 ST-0011,Wildflower Blouse,Acorn Toile,Girls,Tops,Blouse,Fall,New,55.99,19.5,V-IND-02,Sanganer Textiles,India,16
 ST-0012,Winter Fair Isle Blouse,Holiday Holly,Girls,Tops,Blouse,Holiday,New,53.99,17.66,V-IND-01,Jaipur Block Works,India,18
-ST-0013,Block Print Floral Tee,Ditsy Rose,Girls,Tops,Tee,Spring,New,59.99,22.97,V-VNM-01,Mekong Apparel,Vietnam,14
+ST-0013,Garden Trellis Tee,Ditsy Rose,Girls,Tops,Tee,Spring,New,59.99,22.97,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0014,Nantucket Stripe Tee,Nantucket Stripe,Girls,Tops,Tee,Summer,New,57.99,19.49,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0015,Wildflower Tee,Wildflower,Girls,Tops,Tee,Fall,New,49.99,19.38,V-IND-02,Sanganer Textiles,India,16
-ST-0016,Cherry Blossom Cardigan,Block Print Floral,Girls,Tops,Cardigan,Spring,New,63.99,24.39,V-VNM-01,Mekong Apparel,Vietnam,14
+ST-0016,Cherry Blossom Cardigan,Garden Trellis,Girls,Tops,Cardigan,Spring,New,63.99,24.39,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0017,Acorn Toile Cardigan,Autumn Gingham,Girls,Tops,Cardigan,Fall,New,57.99,18.62,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0018,Holiday Holly Cardigan,Holiday Holly,Girls,Tops,Cardigan,Holiday,New,49.99,15.87,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0019,Palm Frond Short,Palm Frond,Girls,Bottoms,Short,Summer,New,49.99,15.77,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0020,Winter Fair Isle Short,Snowdrop,Girls,Bottoms,Short,Holiday,New,45.99,16.19,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0021,Acorn Toile Legging,Pomegranate,Girls,Bottoms,Legging,Fall,New,51.99,17.26,V-IND-02,Sanganer Textiles,India,16
 ST-0022,Snowdrop Legging,Winter Fair Isle,Girls,Bottoms,Legging,Holiday,New,55.99,18.21,V-IND-01,Jaipur Block Works,India,18
-ST-0023,Cherry Blossom Skirt,Block Print Floral,Girls,Bottoms,Skirt,Spring,New,55.99,19.15,V-PRT-01,Porto Knitworks,Portugal,11
+ST-0023,Cherry Blossom Skirt,Garden Trellis,Girls,Bottoms,Skirt,Spring,New,55.99,19.15,V-PRT-01,Porto Knitworks,Portugal,11
 ST-0024,Acorn Toile Skirt,Autumn Gingham,Girls,Bottoms,Skirt,Fall,New,51.99,20.21,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0025,Holiday Holly Skirt,Winter Fair Isle,Girls,Bottoms,Skirt,Holiday,New,47.99,15.52,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0026,Hydrangea Two-Piece Set,Ditsy Rose,Girls,Sets,Two-Piece Set,Spring,New,77.99,26.49,V-IND-01,Jaipur Block Works,India,18
@@ -31,17 +31,17 @@ ST-0029,Snowdrop Two-Piece Set,Snowdrop,Girls,Sets,Two-Piece Set,Holiday,New,77.
 ST-0030,Candy Cane Stripe Romper,Holiday Holly,Girls,Sets,Romper,Holiday,New,67.99,25.99,V-IND-02,Sanganer Textiles,India,16
 ST-0031,Tulip Garden One-Piece,Cherry Blossom,Girls,Swim,One-Piece,Spring,Carryover,59.99,21.33,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0032,Nantucket Stripe One-Piece,Seashell,Girls,Swim,One-Piece,Summer,New,67.99,22.87,V-VNM-01,Mekong Apparel,Vietnam,14
-ST-0033,Ditsy Rose Rash Guard Set,Block Print Floral,Girls,Swim,Rash Guard Set,Spring,New,67.99,21.1,V-IND-02,Sanganer Textiles,India,16
+ST-0033,Ditsy Rose Rash Guard Set,Garden Trellis,Girls,Swim,Rash Guard Set,Spring,New,67.99,21.1,V-IND-02,Sanganer Textiles,India,16
 ST-0034,Strawberry Fields Rash Guard Set,Strawberry Fields,Girls,Swim,Rash Guard Set,Summer,New,63.99,24.67,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0035,Acorn Toile PJ Set,Pomegranate,Girls,Sleepwear,PJ Set,Fall,New,47.99,17.8,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0036,Snowdrop PJ Set,Candy Cane Stripe,Girls,Sleepwear,PJ Set,Holiday,New,45.99,16.06,V-IND-02,Sanganer Textiles,India,16
-ST-0037,Block Print Floral Nightgown,Cherry Blossom,Girls,Sleepwear,Nightgown,Spring,New,47.99,17.07,V-IND-02,Sanganer Textiles,India,16
+ST-0037,Garden Trellis Nightgown,Cherry Blossom,Girls,Sleepwear,Nightgown,Spring,New,47.99,17.07,V-IND-02,Sanganer Textiles,India,16
 ST-0038,Palm Frond Nightgown,Palm Frond,Girls,Sleepwear,Nightgown,Summer,New,51.99,19.24,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0039,Wildflower Nightgown,Pomegranate,Girls,Sleepwear,Nightgown,Fall,Carryover,57.99,19.77,V-PRT-01,Porto Knitworks,Portugal,11
 ST-0040,Holiday Holly Nightgown,Holiday Holly,Girls,Sleepwear,Nightgown,Holiday,Carryover,51.99,19.03,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0041,Wildflower Quilted Jacket,Wildflower,Girls,Outerwear,Quilted Jacket,Fall,New,133.99,45.65,V-IND-02,Sanganer Textiles,India,16
 ST-0042,Winter Fair Isle Quilted Jacket,Candy Cane Stripe,Girls,Outerwear,Quilted Jacket,Holiday,New,131.99,46.79,V-IND-01,Jaipur Block Works,India,18
-ST-0043,Ditsy Rose Button-Down,Block Print Floral,Boys,Tops,Button-Down,Spring,New,61.99,23.48,V-VNM-01,Mekong Apparel,Vietnam,14
+ST-0043,Ditsy Rose Button-Down,Garden Trellis,Boys,Tops,Button-Down,Spring,New,61.99,23.48,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0044,Lemon Grove Button-Down,Lemon Grove,Boys,Tops,Button-Down,Summer,Carryover,53.99,18.77,V-IND-02,Sanganer Textiles,India,16
 ST-0045,Wildflower Button-Down,Wildflower,Boys,Tops,Button-Down,Fall,New,59.99,19.28,V-PRT-01,Porto Knitworks,Portugal,11
 ST-0046,Winter Fair Isle Button-Down,Holiday Holly,Boys,Tops,Button-Down,Holiday,New,47.99,17.32,V-PRT-01,Porto Knitworks,Portugal,11
@@ -56,13 +56,13 @@ ST-0054,Nantucket Stripe Short,Seashell,Boys,Bottoms,Short,Summer,New,45.99,15.6
 ST-0055,Autumn Gingham Short,Acorn Toile,Boys,Bottoms,Short,Fall,New,53.99,20.17,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0056,Candy Cane Stripe Short,Winter Fair Isle,Boys,Bottoms,Short,Holiday,New,43.99,15.46,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0057,Pomegranate Pant,Autumn Gingham,Boys,Bottoms,Pant,Fall,New,55.99,19.7,V-IND-02,Sanganer Textiles,India,16
-ST-0058,Tulip Garden Two-Piece Set,Block Print Floral,Boys,Sets,Two-Piece Set,Spring,New,69.99,25.02,V-VNM-01,Mekong Apparel,Vietnam,14
+ST-0058,Tulip Garden Two-Piece Set,Garden Trellis,Boys,Sets,Two-Piece Set,Spring,New,69.99,25.02,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0059,Seashell Two-Piece Set,Palm Frond,Boys,Sets,Two-Piece Set,Summer,New,69.99,23.21,V-PRT-01,Porto Knitworks,Portugal,11
 ST-0060,Acorn Toile Two-Piece Set,Autumn Gingham,Boys,Sets,Two-Piece Set,Fall,New,69.99,22.21,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0061,Candy Cane Stripe Two-Piece Set,Winter Fair Isle,Boys,Sets,Two-Piece Set,Holiday,New,59.99,19.9,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0062,Hydrangea Swim Trunk,Tulip Garden,Boys,Swim,Swim Trunk,Spring,New,61.99,22.13,V-IND-01,Jaipur Block Works,India,18
-ST-0063,Block Print Floral Rash Guard Set,Ditsy Rose,Boys,Swim,Rash Guard Set,Spring,New,61.99,20.92,V-IND-02,Sanganer Textiles,India,16
-ST-0064,Block Print Floral PJ Set,Cherry Blossom,Boys,Sleepwear,PJ Set,Spring,New,57.99,19.0,V-IND-02,Sanganer Textiles,India,16
+ST-0063,Garden Trellis Rash Guard Set,Ditsy Rose,Boys,Swim,Rash Guard Set,Spring,New,61.99,20.92,V-IND-02,Sanganer Textiles,India,16
+ST-0064,Garden Trellis PJ Set,Cherry Blossom,Boys,Sleepwear,PJ Set,Spring,New,57.99,19.0,V-IND-02,Sanganer Textiles,India,16
 ST-0065,Nantucket Stripe PJ Set,Nantucket Stripe,Boys,Sleepwear,PJ Set,Summer,New,55.99,19.23,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0066,Pomegranate PJ Set,Autumn Gingham,Boys,Sleepwear,PJ Set,Fall,Carryover,53.99,17.5,V-PRT-01,Porto Knitworks,Portugal,11
 ST-0067,Snowdrop PJ Set,Candy Cane Stripe,Boys,Sleepwear,PJ Set,Holiday,Carryover,55.99,19.91,V-IND-01,Jaipur Block Works,India,18
@@ -92,7 +92,7 @@ ST-0090,Wildflower Bib Set,Pomegranate,Baby,Accessories,Bib Set,Fall,New,23.99,8
 ST-0091,Lemon Grove Maxi Dress,Strawberry Fields,Women,Dresses,Maxi Dress,Summer,Carryover,129.99,46.82,V-IND-02,Sanganer Textiles,India,16
 ST-0092,Pomegranate Maxi Dress,Pomegranate,Women,Dresses,Maxi Dress,Fall,Carryover,129.99,41.73,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0093,Holiday Holly Maxi Dress,Winter Fair Isle,Women,Dresses,Maxi Dress,Holiday,New,133.99,51.93,V-IND-01,Jaipur Block Works,India,18
-ST-0094,Block Print Floral Day Dress,Cherry Blossom,Women,Dresses,Day Dress,Spring,New,163.99,62.84,V-IND-01,Jaipur Block Works,India,18
+ST-0094,Garden Trellis Day Dress,Cherry Blossom,Women,Dresses,Day Dress,Spring,New,163.99,62.84,V-IND-01,Jaipur Block Works,India,18
 ST-0095,Strawberry Fields Day Dress,Palm Frond,Women,Dresses,Day Dress,Summer,New,163.99,51.03,V-VNM-01,Mekong Apparel,Vietnam,14
 ST-0096,Autumn Gingham Day Dress,Autumn Gingham,Women,Dresses,Day Dress,Fall,New,161.99,58.16,V-PRT-01,Porto Knitworks,Portugal,11
 ST-0097,Snowdrop Day Dress,Snowdrop,Women,Dresses,Day Dress,Holiday,New,149.99,47.01,V-IND-02,Sanganer Textiles,India,16
@@ -107,7 +107,7 @@ ST-0105,Hydrangea Short,Ditsy Rose,Women,Bottoms,Short,Spring,Carryover,79.99,30
 ST-0106,Pomegranate Short,Acorn Toile,Women,Bottoms,Short,Fall,New,73.99,23.99,V-IND-02,Sanganer Textiles,India,16
 ST-0107,Palm Frond Pant,Lemon Grove,Women,Bottoms,Pant,Summer,Carryover,73.99,26.61,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0108,Winter Fair Isle Pant,Winter Fair Isle,Women,Bottoms,Pant,Holiday,New,83.99,32.34,V-IND-02,Sanganer Textiles,India,16
-ST-0109,Ditsy Rose PJ Set,Block Print Floral,Women,Sleepwear,PJ Set,Spring,New,89.99,30.15,V-IND-01,Jaipur Block Works,India,18
+ST-0109,Ditsy Rose PJ Set,Garden Trellis,Women,Sleepwear,PJ Set,Spring,New,89.99,30.15,V-IND-01,Jaipur Block Works,India,18
 ST-0110,Lemon Grove PJ Set,Nantucket Stripe,Women,Sleepwear,PJ Set,Summer,New,77.99,29.47,V-PER-01,Lima Pima Cotton,Peru,12
 ST-0111,Wildflower PJ Set,Pomegranate,Women,Sleepwear,PJ Set,Fall,New,91.99,29.46,V-PRT-01,Porto Knitworks,Portugal,11
 ST-0112,Holiday Holly PJ Set,Candy Cane Stripe,Women,Sleepwear,PJ Set,Holiday,New,91.99,29.25,V-VNM-01,Mekong Apparel,Vietnam,14
